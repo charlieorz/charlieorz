@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://github.com/charlieorz">Charlie</a> 👋</h1>
 
-<!--
-**charlieorz/charlieorz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=charlieorz&style=flat-square&color=blue" alt="Visitor Count" />
+</p>
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I’m currently a Master's student focusing on **Deep Learning & Brain-Computer Interface**.
+- 🔬 My research interests include **Time-series Analysis**, and **Pattern Recognition**.
+- 📝 I regularly write technical blogs and read **SCI papers**.
+- 👯 I’m looking to collaborate on open-source AI projects.
+- 📫 How to reach me: *charlieorz@163.com*
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+
+</div>
