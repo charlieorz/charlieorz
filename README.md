@@ -8,9 +8,6 @@
 
 - 🎓 I’m currently a Master's student focusing on **Deep Learning & Brain-Computer Interface**.
 - 🔬 My research interests include **Time-series Analysis**, and **Pattern Recognition**.
-- 📝 I regularly write technical blogs and read **SCI papers**.
-- 👯 I’m looking to collaborate on open-source AI projects.
-- 📫 How to reach me: *charlieorz@163.com*
 
 ---
 
